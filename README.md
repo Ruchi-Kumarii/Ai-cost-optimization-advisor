@@ -84,7 +84,7 @@ Your feedback is welcome! ⭐
  Author
 **Ruchi Mishra**
 - 📧 Email: 32kuamriruchi@gmail.com
-- 🌐 LinkedIn: [https://linkedin.com/in/ruchi-mishra]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/ruchi-mishra-328296300/]
 - 🏆 Made with ❤️ for hackathons and learning
 
 
