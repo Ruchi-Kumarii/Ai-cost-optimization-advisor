@@ -1,0 +1,56 @@
+/* Make header background stretch full width */
+.header-container {
+  width: 100%;
+  background-color: #07163dd2;
+  padding: 1rem 4rem;
+  margin-bottom: 5rem;
+}
+
+/* Nav bar styling */
+.nav-links {
+  display: flex;
+  justify-content: flex-start; /* Left align */
+  align-items: center;
+  gap: 4rem; /* space between nav items */
+  padding: 0 2rem; /* Add horizontal padding */
+  flex-wrap: wrap;
+}
+
+/* Buttons and links in header */
+.nav-button {
+  background: none;
+  border: none;
+  color: #e4f0f3;
+  font-size: 1.80rem;
+  cursor: pointer;
+  font-weight: 500;
+  text-decoration: none; /* removes underline */
+}
+
+/* Remove underline for <a> tag specifically */
+.nav-button:link,
+.nav-button:visited {
+  text-decoration: none;
+}
+
+/* Hover effect */
+.nav-button:hover {
+  color: #ffffff;
+}
+
+/* Help dropdown styling */
+.dropdown-wrapper {
+  position: relative;
+}
+
+.dropdown {
+  position: absolute;
+  top: 2.8rem;
+  background-color: #1e293b;
+  padding: 0.8rem 1rem;
+  border-radius: 8px;
+  color: #f1f5f9;
+  font-size: 0.95rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+  z-index: 100;
+}
