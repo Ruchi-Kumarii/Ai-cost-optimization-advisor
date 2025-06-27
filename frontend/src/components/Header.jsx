@@ -6,7 +6,7 @@ function Header({ scrollToFooter }) {
         <div className="header-container">
             <nav className="nav-links">
                 <a
-                    href="https://github.com/your-username/your-repo"
+                    href="https://github.com/Ruchi-Kumarii/Ai-cost-optimization-advisor/blob/main/README.md"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="nav-button"
