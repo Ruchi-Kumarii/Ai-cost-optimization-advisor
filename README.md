@@ -4,13 +4,13 @@ A React-based AI Cost Optimization Dashboard with smart recommendations, cost co
 
 ✨ Features
 
-@ Smart recommendations for selecting cost-effective AI models  
-@ Model cost comparison table with dynamic calculation  
-@ Clean and modern UI with responsive design  
-@ Background animations and welcome screen  
-@ Feedback widget with rating and suggestions  
-@ Header with Documentation, About, and Help sections  
-@ Fully modular React components and organized CSS
+## Smart recommendations for selecting cost-effective AI models  
+## Model cost comparison table with dynamic calculation  
+## Clean and modern UI with responsive design  
+## Background animations and welcome screen  
+## Feedback widget with rating and suggestions  
+## Header with Documentation, About, and Help sections  
+## Fully modular React components and organized CSS
 
 📸 Screenshots
 
